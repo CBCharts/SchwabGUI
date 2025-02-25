@@ -1,0 +1,68 @@
+{
+  "presets": [
+    {
+      "name": "yee",
+      "data": {
+        "volume_min": "26",
+        "volume_max": "100",
+        "oi_min": "",
+        "oi_max": "500",
+        "premium_min": "",
+        "premium_max": "",
+        "strike_min": "5590",
+        "strike_max": "",
+        "lastPrice_min": "",
+        "lastPrice_max": "",
+        "option_type": "All"
+      }
+    },
+    {
+      "name": "test2",
+      "data": {
+        "volume_min": "26",
+        "volume_max": "100",
+        "oi_min": "",
+        "oi_max": "500",
+        "premium_min": "",
+        "premium_max": "",
+        "strike_min": "6000",
+        "strike_max": "",
+        "lastPrice_min": "",
+        "lastPrice_max": "",
+        "option_type": "All"
+      }
+    },
+    {
+      "name": "test3",
+      "data": {
+        "volume_min": "25",
+        "volume_max": "",
+        "oi_min": "19",
+        "oi_max": "",
+        "premium_min": "",
+        "premium_max": "",
+        "strike_min": "99",
+        "strike_max": "",
+        "lastPrice_min": "",
+        "lastPrice_max": "",
+        "option_type": "All"
+      }
+    },
+    {
+      "name": "test3",
+      "data": {
+        "volume_min": "25",
+        "volume_max": "",
+        "oi_min": "19",
+        "oi_max": "",
+        "premium_min": "",
+        "premium_max": "",
+        "strike_min": "99",
+        "strike_max": "",
+        "lastPrice_min": "",
+        "lastPrice_max": "",
+        "option_type": "All"
+      }
+    }
+  ]
+}
