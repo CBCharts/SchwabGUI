@@ -1,0 +1,65 @@
+<RCC>
+  <qresource prefix="svg">
+    <file>SVG/border-bottom-left-solid.svg</file>
+    <file>SVG/border-bottom-right-solid.svg</file>
+    <file>SVG/border-top-left-solid.svg</file>
+    <file>SVG/border-top-right-solid.svg</file>
+    <file>SVG/34LiteLogo.png</file>
+    <file>SVG/arrow-rotate-right-solid.svg</file>
+    <file>SVG/ban-solid.svg</file>
+    <file>SVG/bars-solid.svg</file>
+    <file>SVG/bell-regular.svg</file>
+    <file>SVG/bell-slash-regular.svg</file>
+    <file>SVG/biohazard-solid.svg</file>
+    <file>SVG/Black Background.svg</file>
+    <file>SVG/black-tie-brands-solid.svg</file>
+    <file>SVG/bookshelf.svg</file>
+    <file>SVG/book-solid.svg</file>
+    <file>SVG/calendar-days-regular.svg</file>
+    <file>SVG/calendar-week.svg</file>
+    <file>SVG/cash-register-solid.svg</file>
+    <file>SVG/CBCFlowLock.svg</file>
+    <file>SVG/circle-arrow-right-solid.svg</file>
+    <file>SVG/circle-info-solid.svg</file>
+    <file>SVG/circle-left-regular.svg</file>
+    <file>SVG/circle-right-regular.svg</file>
+    <file>SVG/circle-xmark-regular.svg</file>
+    <file>SVG/clock-regular.svg</file>
+    <file>SVG/clock-rotate-left-solid.svg</file>
+    <file>SVG/Closed.svg</file>
+    <file>SVG/computer-solid.svg</file>
+    <file>SVG/content-paste.svg</file>
+    <file>SVG/Delayed Icon.svg</file>
+    <file>SVG/expand-solid.svg</file>
+    <file>SVG/eye-regular.svg</file>
+    <file>SVG/eye-slash-regular.svg</file>
+    <file>SVG/file-cabinet.svg</file>
+    <file>SVG/file-chart-check-outline.svg</file>
+    <file>SVG/file-chart-outline.svg</file>
+    <file>SVG/file-marker-outline.svg</file>
+    <file>SVG/file-regular.svg</file>
+    <file>SVG/floppy-disk-regular.svg</file>
+    <file>SVG/gear-solid.svg</file>
+    <file>SVG/github-brands-solid.svg</file>
+    <file>SVG/globe-solid.svg</file>
+    <file>SVG/hashtag-solid.svg</file>
+    <file>SVG/home.svg</file>
+    <file>SVG/house-solid.svg</file>
+    <file>SVG/key-solid (1).svg</file>
+    <file>SVG/pen-to-square-regular.svg</file>
+    <file>SVG/play-solid (1).svg</file>
+    <file>SVG/play-solid.svg</file>
+    <file>SVG/refresh.svg</file>
+    <file>SVG/shapes-solid.svg</file>
+    <file>SVG/smallBlack Background.svg</file>
+    <file>SVG/smallWhiteBlack.svg</file>
+    <file>SVG/solar-panel-solid.svg</file>
+    <file>SVG/theme-light-dark.svg</file>
+    <file>SVG/tie delay.svg</file>
+    <file>SVG/timer-alert-outline.svg</file>
+    <file>SVG/tv-solid.svg</file>
+    <file>SVG/WhiteBlack.svg</file>
+    <file>SVG/window-minimize-solid.svg</file>
+    <file>SVG/youtube-brands-solid.svg</file>
+  </qresource>
+</RCC>
